@@ -30,7 +30,7 @@ const App = (props) =>  {
   }
 
   useEffect(() => {
-    searchMovies("batman")
+    searchMovies("rec")
   },[])
 
   return (
